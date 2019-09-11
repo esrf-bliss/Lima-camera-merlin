@@ -12,3 +12,5 @@ html
 merlintest
 merlintest2
 merlintest3
+build/
+tango/build/
